@@ -9,6 +9,10 @@ Ex - 1:
 
 https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_1_Your_First_Viz.pbix
 
+Click here : [1_1_Your_First_Viz]
+
+[1_1_Your_First_Viz]: https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_1_Your_First_Viz.pbix
+
 Ex - 2:
 
 * In the Report view, deselect any visuals you have selected by clicking a blank area of the canvas.
