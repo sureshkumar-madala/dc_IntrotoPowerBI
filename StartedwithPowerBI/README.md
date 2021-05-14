@@ -7,8 +7,6 @@ Ex - 1:
 * * Make sure to use Calendar Year instead of Calendar Year Label. You can expand the Fields pane by dragging its left-hand border.
 * In the Visualizations pane, drag Calendar Year to Axis rather than Value.
 
-https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_1_Your_First_Viz.pbix
-
 Click here : [1_1_Your_First_Viz]
 
 [1_1_Your_First_Viz]: https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_1_Your_First_Viz.pbix
@@ -20,8 +18,32 @@ Ex - 2:
 * Choose the card visualization.
 * Select the year 2014 bar. How does the profit card change?
 
-https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_2_Add_a_Card.pbix
+Click here : [1_2_Add_a_Card]
+
+[1_2_Add_a_Card]: https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_2_Add_a_Card.pbix
 
 Ex - 3:
+
+* Load the Excel file DimEmployee.xlsx from Datasets/WWI using the Excel button on the top menu.
+* Create a relationship between FactSale's Salesperson Key and DimEmployee's Employee Key.
+* In the Report view, add a slicer.
+* Add the Employee field to the slicer.
+* Using the slicer you've just added, how much profit did salesperson Taj Shand generate for WWI in 2014? (answer format: $1.11M)
+
+Click here : [1_3_Slicers]
+
+[1_3_Slicers]: https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_3_Slicers.pbix
+
+
+
+
+
+
+
+
+
+
+
+
 
 
