@@ -7,3 +7,17 @@ Ex - 1:
 * * Make sure to use Calendar Year instead of Calendar Year Label. You can expand the Fields pane by dragging its left-hand border.
 * In the Visualizations pane, drag Calendar Year to Axis rather than Value.
 
+https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_1_Your_First_Viz.pbix
+
+Ex - 2:
+
+* In the Report view, deselect any visuals you have selected by clicking a blank area of the canvas.
+* Select the Profit field from FactSale.
+* Choose the card visualization.
+* Select the year 2014 bar. How does the profit card change?
+
+https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_2_Add_a_Card.pbix
+
+Ex - 3:
+
+
