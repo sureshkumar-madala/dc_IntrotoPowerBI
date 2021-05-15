@@ -35,10 +35,17 @@ Click here : [1_3_Slicers]
 [1_3_Slicers]: https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_3_Slicers.pbix
 
 
+Ex - 4:
 
+* Select the Quantity of Items Sold bar chart.
+* Select Total Dry Items and Total Chiller Items in the Fields pane.
+* Based on the result, which statement is true about Wide World Importers?
 
+Click here : [1_4_More_Columns]
 
+[1_4_More_Columns]: https://github.com/sureshkumar-madala/dc_IntrotoPowerBI/blob/main/StartedwithPowerBI/1_4_More_Columns.pbix
 
+Ex - 5:
 
 
 
